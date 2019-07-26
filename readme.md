@@ -1,5 +1,5 @@
-# (Flights Datasets  - Exploration)
-## by (Alaa Alaboud)
+# Flights Datasets  - Exploration
+## by Alaa Alaboud
 
 
 ### Flights Datasets
